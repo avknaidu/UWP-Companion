@@ -33,6 +33,11 @@ const defaultSettings = {
             prefferedApp: "Spotimo",
             isEnabled: true,
             closeOnSwitch: false
+        },
+        StackOverflow: {
+            prefferedApp: "Stack10",
+            isEnabled: true,
+            closeOnSwitch: false
         }
     }
 };
