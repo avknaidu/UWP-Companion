@@ -17,8 +17,8 @@ It can also be sideloaded from the [releases](https://github.com/UWPCommunity/UW
 ## Supported Platforms & Clients
 
 
-|  |  |  |  |  |  |  |
-| - | - | - | - | - | - | - |
+|  |  |  |  |  |  |  |  |
+| - | - | - | - | - | - | - | - |
 | ![Legere logo](assets/icons/clients/Legere.png) | ![Reddplannet logo](assets/icons/platforms/Reddit.png) | ![myTube logo](assets/icons/clients/myTube.png) | ![Mixplay for Mixer logo](assets/icons/platforms/Mixer.png) | ![Quarrel logo](assets/icons/clients/Quarrel.png) | ![Spotimo logo](assets/icons/clients/Spotimo_.png) | ![Xpo Music logo](assets/icons/clients/Xpo%20Music.png)  | ![Stack10 logo](assets/icons/clients/Stack10_.png) |
 | <font size="+1">[Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz)</font> | <font size="+0.7">[Reddplanet](https://www.microsoft.com/en-us/p/reddplanet/9nblggh4s44m)</font> | <font size="+1">[myTube](https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l)</font> | <font size="+1">[Mixplay](https://www.microsoft.com/en-us/p/mixplay-for-mixer/9pn94d9bdfzm)</font> | <font size="+1">[Quarrel](https://www.microsoft.com/en-us/p/quarrel/9nbrwj777c8r)</a> | <font size="+1">[Spotimo](https://www.microsoft.com/en-us/p/spotimo-beta/9p75w183m6qr)</font> | <font size="+1">[Xpo Music](https://www.microsoft.com/en-us/p/xpotify-a-modern-spotify-experience-for-windows-10/9n1n68mc7fxr)</font> | <font size="+1">[Stack10](https://www.microsoft.com/en-in/p/stack-10/9nblggh5361b)</font> |
 
